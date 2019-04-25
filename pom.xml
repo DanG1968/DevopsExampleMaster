@@ -47,7 +47,7 @@
 		<finalName>Devops Example</finalName>
 		<pluginManagement>
 			<plugins>
-				<!-- Tomcat Maven m Plugin  -->
+				<!-- Tomcat Maven try Plugin  -->
 				<plugin>
 					<groupId>org.apache.tomcat.maven</groupId>
 					<artifactId>tomcat7-maven-plugin</artifactId>
